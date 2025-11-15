@@ -1,2 +1,2 @@
-# EC312_HotelManagement
-Xây dựng website đặt phòng và quản lý khách sạn
+# EC312_Food4student
+Xây dựng hệ thống đặt đồ ăn cho sinh viên làng đại học
